@@ -6,6 +6,20 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## 🎯 Project Submission Links
+
+**GitHub Repository:** https://github.com/KerolesDawod12/Project-Build-an-ML-Pipeline-Starter
+
+**W&B Project Dashboard:** https://wandb.ai/kerolesdawod-western-governors-university/nyc_airbnb
+
+## 📊 Project Results
+
+✅ **Complete ML Pipeline Implementation**  
+✅ **Model Performance:** R² = 56.4% on Test Data (MAE: $33.85)  
+✅ **All Pipeline Components Working**  
+✅ **Full W&B Experiment Tracking**  
+✅ **GitHub Release Tag: v1.0.0**
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
